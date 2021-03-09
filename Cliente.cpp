@@ -4,6 +4,7 @@
 
 void Cliente::print(){
 
+	
 	std::cout << "  Nome: " << NOME << endl
 		 << "  Endereço: " << endereco << endl
 		 << "  Cidade: " << CIDADE << endl
